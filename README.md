@@ -4,7 +4,7 @@
 <div 
 style="display:flex; justify-content:center; align-items:end; margin-top: 30px">
     <img src="./src/img/logo.svg" height="50px">
-    <p style="margin-left:10px; font-size: 25px; margin-bottom: 3px">Academia Robust Habit</p>
+    <p style="margin-left:10px; font-size: 25px; margin-bottom: 3px">Gym Robust Habit</p>
 </div>
 
 ## About
